@@ -1,5 +1,7 @@
 ## Hi, I'm Ezra 👋
 
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/esingh/projects/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@singhezra/)
+
 I *love* mysteries, learning and discovery.
 
 There's an undeniable thrill in delving deep to unravel the inner workings of systems and understanding their intricacies.
