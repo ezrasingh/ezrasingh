@@ -14,6 +14,6 @@ Equally fulfilling is the process of creating solutions that make a meaningful d
  
 ---
 
-- 📚 **Currently exploring**: [Operational analysis](https://en.wikipedia.org/wiki/Operational_calculus) and [control theory](https://en.wikipedia.org/wiki/Control_theory)
+- 📚 **Currently exploring**: [Control theory](https://en.wikipedia.org/wiki/Control_theory) and [DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)
 - 🌐 **Working on**: A [geospatial search engine](https://github.com/ezrasingh/geoprox/) and writing [articles](https://medium.com/@singhezra/) about my journey
 - 💬 **Open to discussions about**: App development, computer science, math & physics
