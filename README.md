@@ -14,6 +14,6 @@ Equally fulfilling is the process of creating solutions that make a meaningful d
  
 ---
 
-- 📚 **Currently exploring**: [Control theory](https://en.wikipedia.org/wiki/Control_theory) and [DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)
-- 🌐 **Working on**: A [geospatial search engine](https://github.com/ezrasingh/geoprox/) and writing [articles](https://medium.com/@singhezra/) about my journey
-- 💬 **Open to discussions about**: App development, computer science, math & physics
+- 📚 **Currently exploring**: [Design Patterns](https://refactoring.guru/design-patterns) and [Async Rust](https://rust-lang.github.io/async-book/)
+- 🌐 **Working on**: A [remote printing orchestrator](https://github.com/ezrasingh/printctl/) and writing [articles](https://medium.com/@singhezra/) about my journey
+- 💬 **Open to discussions about**: App development, computer science, music, math & physics
